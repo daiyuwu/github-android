@@ -5,5 +5,24 @@
     <string name="content">內容</string>
     <string name="enter_content">輸入內容</string>
 
-    <string name="compute_moniter">顯示螢幕</string>
+    <string name="compute_moniter">螢幕顯示</string>
+    <string name="compute_back">BACK</string>
+    <string name="compute_clear">CLEAR</string>
+    <string name="compute_1">1</string>
+    <string name="compute_2">2</string>
+    <string name="compute_3">3</string>
+    <string name="compute_4">4</string>
+    <string name="compute_5">5</string>
+    <string name="compute_6">6</string>
+    <string name="compute_7">7</string>
+    <string name="compute_8">8</string>
+    <string name="compute_9">9</string>
+    <string name="compute_0">0</string>
+    <string name="compute_plus">+</string>
+    <string name="compute_minus">-</string>
+    <string name="compute_times">X</string>
+    <string name="compute_divided">/</string>
+    <string name="compute_equals">=</string>
+    <string name="compute_point">.</string>
+
 </resources>
